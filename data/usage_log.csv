@@ -1,0 +1,7 @@
+timestamp,username,role,action,status
+2026-05-19 22:36:14,luhe,admin,login,success
+2026-05-19 22:36:26,luhe,admin,Exit,success
+2026-05-19 22:36:32,sunny,clinician,login,success
+2026-05-19 22:36:35,sunny,clinician,Open ViewNoteWindow,success
+2026-05-19 22:36:38,sunny,clinician,ViewNotes p1,success
+2026-05-19 22:37:13,admin,admin,login,success

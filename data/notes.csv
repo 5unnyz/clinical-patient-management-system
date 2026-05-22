@@ -1,0 +1,6 @@
+Note_ID,Patient_ID,Date,Note_Text
+N001,P001,2024-01-10,Patient reports mild chest pain and shortness of breath.
+N002,P001,2024-03-22,Follow-up visit. Symptoms improved. No complications.
+N003,P002,2024-02-14,Patient complains of headache and dizziness.
+N004,P003,2024-04-05,Annual physical exam. No major issues.
+N005,P004,2024-01-28,Patient reports persistent cough and fatigue.

@@ -1,0 +1,21 @@
+provider_id,name,specialty,department_id
+PR1,Dr_1,Pediatric,D2
+PR2,Dr_2,Pulmonology,D1
+PR3,Dr_3,Cardiology,D1
+PR4,Dr_4,Emergency Medicine,D3
+PR5,Dr_5,Emergency Medicine,D1
+PR6,Dr_6,Pediatric,D3
+PR7,Dr_7,Emergency Medicine,D3
+PR8,Dr_8,Cardiology,D3
+PR9,Dr_9,Pulmonology,D4
+PR10,Dr_10,Emergency Medicine,D4
+PR11,Dr_11,Primary Care,D1
+PR12,Dr_12,Pulmonology,D4
+PR13,Dr_13,Endocrinology,D2
+PR14,Dr_14,Pediatric,D3
+PR15,Dr_15,Endocrinology,D1
+PR16,Dr_16,Oncology,D2
+PR17,Dr_17,Cardiology,D1
+PR18,Dr_18,Endocrinology,D1
+PR19,Dr_19,Endocrinology,D2
+PR20,Dr_20,Primary Care,D2
