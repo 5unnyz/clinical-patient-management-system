@@ -321,7 +321,7 @@ class CountEncountersPerPatientWindow:
         try:
             with open("Data/encounters.csv", "r") as f:
                 reader = csv.DictReader(f)
-                count = sum(1 for row in reader if normalize_id(row["patient_id"]) == patient_id)
+                count = sum(1 for row in reader if normalize_id(row["patient_id"]) == normalize_id(raw_id))
 
             messagebox.showinfo("Encounters Per Patient", f"Patient {raw_id} has {count} encounters.")
             log_event(self.username, self.role, f"CountEncountersPerPatient {raw_id} -> {count}", "success")
