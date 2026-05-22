@@ -1,0 +1,6 @@
+=== SYSTEM REPORT ===
+Average BMI: 28.776
+Average A1C: 7.016
+Smoking Rate: 0.465
+Gender Counts: {'Female': 112, 'Male': 88}
+Total Procedure Cost: 262002.57
