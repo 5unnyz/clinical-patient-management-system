@@ -5,3 +5,92 @@ timestamp,username,role,action,status
 2026-05-19 22:36:35,sunny,clinician,Open ViewNoteWindow,success
 2026-05-19 22:36:38,sunny,clinician,ViewNotes p1,success
 2026-05-19 22:37:13,admin,admin,login,success
+2026-05-21 20:45:45,sunny,clinician,login,success
+2026-05-21 20:45:47,sunny,clinician,Open ViewNoteWindow,success
+2026-05-21 20:45:57,sunny,clinician,ViewNotes p30 (no notes),failed
+2026-05-21 20:46:04,sunny,clinician,ViewNotes P30 (no notes),failed
+2026-05-21 20:46:08,sunny,clinician,ViewNotes P35 (no notes),failed
+2026-05-21 20:46:13,sunny,clinician,ViewNotes P1,success
+2026-05-21 20:46:16,sunny,clinician,ViewNotes P2,success
+2026-05-21 20:46:19,sunny,clinician,ViewNotes P3,success
+2026-05-21 20:46:22,sunny,clinician,ViewNotes P4,success
+2026-05-21 20:46:27,sunny,clinician,ViewNotes P5 (no notes),failed
+2026-05-21 20:46:31,sunny,clinician,ViewNotes P6 (no notes),failed
+2026-05-21 20:47:30,sunny,clinician,ViewNotes P6 (no notes),failed
+2026-05-21 20:47:38,sunny,clinician,ViewNotes 6 (no notes),failed
+2026-05-21 20:47:42,sunny,clinician,ViewNotes 100 (no notes),failed
+2026-05-21 20:47:58,sunny,clinician,ViewNotes P1,success
+2026-05-21 20:48:02,sunny,clinician,login,success
+2026-05-21 20:48:12,sunny,clinician,Open RetrievePatientWindow,success
+2026-05-21 20:48:17,sunny,clinician,RetrievePatient P1,success
+2026-05-21 20:48:21,sunny,clinician,RetrievePatient P2,success
+2026-05-21 20:48:25,sunny,clinician,RetrievePatient P6,success
+2026-05-21 20:48:28,sunny,clinician,RetrievePatient P7,success
+2026-05-21 20:48:35,sunny,clinician,RetrievePatient P200,success
+2026-05-21 20:49:09,sunny,clinician,Open AddPatientWindow,success
+2026-05-21 20:49:11,sunny,clinician,Open RemovePatientWindow,success
+2026-05-21 20:49:14,sunny,clinician,RemovePatient (empty id),failed
+2026-05-21 20:49:19,sunny,clinician,Open CountVisitsWindow,success
+2026-05-21 20:49:23,sunny,clinician,CountVisits p1 -> 2,success
+2026-05-21 20:49:29,sunny,clinician,CountVisits p6 -> 2,success
+2026-05-21 20:49:35,sunny,clinician,CountVisits p100 -> 2,success
+2026-05-21 20:49:41,sunny,clinician,Open ViewNoteWindow,success
+2026-05-21 20:49:44,sunny,clinician,ViewNotes p1,success
+2026-05-21 20:49:49,sunny,clinician,ViewNotes p5 (no notes),failed
+2026-05-21 20:58:36,sunny,clinician,ViewNotes p6 (no notes),failed
+2026-05-21 20:59:10,sunny,clinician,login,success
+2026-05-21 20:59:12,sunny,clinician,Open ViewNoteWindow,success
+2026-05-21 20:59:17,sunny,clinician,ViewNotes p6 (no notes),failed
+2026-05-21 20:59:22,sunny,clinician,ViewNotes p5 (no notes),failed
+2026-05-21 20:59:26,sunny,clinician,ViewNotes p3,success
+2026-05-21 20:59:41,sunny,clinician,ViewNotes p076,success
+2026-05-21 21:00:02,sunny,clinician,ViewNotes p1,success
+2026-05-21 21:00:06,sunny,clinician,ViewNotes p2 (no notes),failed
+2026-05-21 21:00:18,sunny,clinician,ViewNotes p3,success
+2026-05-21 21:02:46,sunny,clinician,ViewNotes p96,success
+2026-05-21 21:02:46,sunny,clinician,ViewNotes p96,success
+2026-05-21 21:04:16,sunny,clinician,ViewNotes p96,success
+2026-05-21 21:04:26,sunny,clinician,ViewNotes p96,success
+2026-05-21 21:04:35,sunny,clinician,ViewNotes p52,success
+2026-05-21 21:05:16,sunny,clinician,ViewNotes p52 (no notes),failed
+2026-05-21 21:05:24,sunny,clinician,ViewNotes p50 (no notes),failed
+2026-05-21 21:06:09,sunny,clinician,ViewNotes p50 (no notes),failed
+2026-05-21 21:06:19,sunny,clinician,ViewNotes p52,success
+2026-05-21 21:06:27,sunny,clinician,ViewNotes p96,success
+2026-05-21 21:07:37,sunny,clinician,ViewNotes p160,success
+2026-05-21 21:07:48,sunny,clinician,ViewNotes p159,success
+2026-05-21 21:08:36,sunny,clinician,ViewNotes p1,success
+2026-05-21 21:08:42,sunny,clinician,ViewNotes p2 (no notes),failed
+2026-05-21 21:13:49,sunny,clinician,ViewNotes p2 (no notes),failed
+2026-05-21 21:13:52,sunny,clinician,ViewNotes p1,success
+2026-05-21 21:13:56,sunny,clinician,ViewNotes p3,success
+2026-05-21 21:14:00,sunny,clinician,ViewNotes p4 (no notes),failed
+2026-05-21 21:14:46,sunny,clinician,ViewNotes p1,success
+2026-05-21 21:14:49,sunny,clinician,ViewNotes p2,success
+2026-05-21 21:14:52,sunny,clinician,ViewNotes p3,success
+2026-05-21 21:14:55,sunny,clinician,ViewNotes p4,success
+2026-05-21 21:14:57,sunny,clinician,ViewNotes p44,success
+2026-05-21 21:15:02,sunny,clinician,ViewNotes p144,success
+2026-05-21 21:15:07,sunny,clinician,ViewNotes p200,success
+2026-05-21 21:16:43,sunny,clinician,Open CountVisitsWindow,success
+2026-05-21 21:16:48,sunny,clinician,CountVisits 200 -> 0,success
+2026-05-21 21:16:53,sunny,clinician,CountVisits 199 -> 0,success
+2026-05-21 21:16:58,sunny,clinician,CountVisits 195 -> 0,success
+2026-05-21 21:17:03,sunny,clinician,CountVisits 1 -> 0,success
+2026-05-21 21:19:15,sunny,clinician,Open ViewNoteWindow,success
+2026-05-21 21:19:20,sunny,clinician,ViewNotes p001,success
+2026-05-21 21:19:29,sunny,clinician,ViewNotes p002,success
+2026-05-21 21:19:57,sunny,clinician,Open RetrievePatientWindow,success
+2026-05-21 21:20:02,sunny,clinician,RetrievePatient p001,success
+2026-05-21 21:20:08,sunny,clinician,RetrievePatient p001,success
+2026-05-21 21:20:13,sunny,clinician,RetrievePatient p1,success
+2026-05-21 21:29:07,sunny,clinician,Open CountVisitsWindow,success
+2026-05-21 21:29:13,sunny,clinician,CountVisits p01 -> 2,success
+2026-05-21 21:29:18,sunny,clinician,CountVisits p1 -> 2,success
+2026-05-21 21:29:50,sunny,clinician,CountVisits p001 -> 2,success
+2026-05-21 21:29:59,sunny,clinician,CountVisits p200 -> 2,success
+2026-05-21 21:30:05,sunny,clinician,CountVisits p12 -> 7,success
+2026-05-21 21:30:09,sunny,clinician,CountVisits p120 -> 2,success
+2026-05-21 21:30:17,sunny,clinician,CountVisits p00120 -> 2,success
+2026-05-22 10:12:11,sunny,clinician,login,success
+2026-05-22 10:12:17,sunny,clinician,Exit,success
